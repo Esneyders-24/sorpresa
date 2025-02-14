@@ -5,7 +5,18 @@
 }
 
 body {
-    
+    background-image: url(atardecer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", serif;
 }
 
 .heart {
